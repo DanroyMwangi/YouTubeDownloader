@@ -7,5 +7,5 @@ The application supports 144p, 360p, 720p and 1080p video only and both video an
 Support for the best and lowest qualities has also been added.
 ## Exceptions and errors handled
 For the present iteration, the following errors have been encountered and handled:
-1.AttributeError
-2.RegexMatchError
+1. AttributeError
+2. RegexMatchError
